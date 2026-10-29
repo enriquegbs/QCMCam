@@ -1,0 +1,7 @@
+# Título del cuestionario {colored}
+
+## Enunciado de la pregunta {timer=30 zoom=1.2 shuffle=false disposition=imageAbove}
+
+- [ ] Respuesta incorrecta
+- [x] Respuesta correcta
+- [ ] Respuesta incorrecta
